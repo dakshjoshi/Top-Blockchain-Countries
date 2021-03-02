@@ -1,0 +1,26 @@
+li {
+  display: inline;
+}
+
+ul {
+  padding: 10 px;
+  display: inline;
+}
+
+.Yoyo {
+  text-align: center;
+}
+
+.Heading {
+  text-align: center;
+  padding: 2px;
+  font-family: sans-serif;
+}
+
+.CountryFlag-text {
+  text-align: center;
+}
+
+a:link {
+  text-decoration: none;
+}
